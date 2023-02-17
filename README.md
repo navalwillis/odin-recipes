@@ -1,1 +1,2 @@
 # odin-recipes
+I'm using this website as a means to practice my HTML skills. I know I'll have to set up a boilerplate, fully-functioning HTML elements, opening and closing tags, hyperlinks that work, and on top of all of this will be me using the workflow through Git.  Alot of these skills are highly fundamental in the realm of coding, I mainly just need to get comfortable using them.
